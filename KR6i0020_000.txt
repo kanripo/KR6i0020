@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說百佛名經
+#+DATE: 2015-08-30 20:07:58.535997
+#+PROPERTY: JUAN 0
